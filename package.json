@@ -1,0 +1,24 @@
+{
+  "name": "vuejs-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mash-a/vuejs-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mash-a/vuejs-blog/issues"
+  },
+  "homepage": "https://github.com/mash-a/vuejs-blog#readme",
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "vue": "^2.6.10"
+  }
+}
